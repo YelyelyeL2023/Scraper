@@ -35,7 +35,7 @@ This project is a Streamlit-based web application that performs advanced search 
 
 1. **Clone the repository:**
     ```sh
-    git clone <your-repo-url>
+    git clone https://github.com/YelyelyeL2023/Scraper.git
     cd Scraper-main
     ```
 
@@ -43,7 +43,7 @@ This project is a Streamlit-based web application that performs advanced search 
     ```sh
     pip install -r requirements.txt
     ```
-    *(Create `requirements.txt` with the following content if not present:)*
+    *Create `requirements.txt` with the following content:*
 
     ```
     streamlit
